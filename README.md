@@ -18,6 +18,12 @@ El material es realizado por los profesores Jérémy Barbay y Patricio Poblete.
  
  Consiste en hacer una calculadora que reciba un input y devuelva su resultado. Para resolverlo se debe aplicar notación polaca inversa y la estructura de datos pila.
  
- ## Tarea 4
+ ## Tarea 4: Árbol 2-3
+ 
+ El objetivo es implemetar el tipo de datos abstracto diccionario con la estructura de un árbol 2-3 donde las claves son únicas.
+ 
+ ## Tarea 5: Huffman Sort
+ 
+ El objetivo de esta tarea es implementar diferentes variantes del algoritmo de ordenamiento Merge Sort. En particular estudiaremos Adaptive Merge Sort, y Hufmman Sort, y comparar sus rendimientos.
  
  
