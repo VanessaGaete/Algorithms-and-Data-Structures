@@ -4,17 +4,17 @@ En este repositorio se presentan mis tareas realizadas en el curso Algoritmos y 
 
 El material es realizado por los profesores Jérémy Barbay y Patricio Poblete.
 
-## Tarea 1
+## Tarea 1: ROT13
  
  Esta tarea es una iniciación al lenguaje Java (es la primera vez que se ocupa dicho lenguaje formalmente). Consiste en recibir una palabra desde la enntrada estándar y cambiar cada una de sus letras por la letra que está 13 posiciones más adelante en el alfabeto.
  
- ## Tarea 2
+ ## Tarea 2: Diff
  
  Se pide dar como output los pasos para hacer que un archivo A.txt y otro B.txt sean iguales. La condición es que los pasos entragados sea el camino más corto posible para lograrlo (el con menor cantidad de pasos). 
  
  Esta tarea es resuelta con programación dinámica.
  
- ## Tarea 3
+ ## Tarea 3: Calculadora Polaca
  
  Consiste en hacer una calculadora que reciba un input y devuelva su resultado. Para resolverlo se debe aplicar notación polaca inversa y la estructura de datos pila.
  
